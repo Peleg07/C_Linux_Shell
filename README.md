@@ -19,10 +19,10 @@
   __________________________________________________________
 </h1>
     
-
+<div>
+  [(https://www.linkedin.com/in/peleg-levy/)] 
+</div>  
    
-    
-    [(https://www.linkedin.com/in/peleg-levy/)]
 
 
     
