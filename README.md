@@ -30,6 +30,7 @@
 <div>
    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original-wordmark.svg" title="Docker" width="40" height="40"/>&nbsp;
    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" title="Python" width="40" height="40"/>&nbsp;
+    <img src="https://upload.wikimedia.org/wikiversity/en/8/8c/FastAPI_logo.png" title="FastAPI" width="80" height="40"/>&nbsp;
 </div>
     
  
