@@ -19,10 +19,17 @@
     
 <h1 align="center">__________________________________________________________</h1>
    
-
+### Introduction:
+   Todo App is built with a microservices architecture based on docker compose.<br />
+   The services of the application are backend, frontend and database.
+* Backend using python 3.9 & FastAPI 0.88.0
+* Frontend using React/Streamlit
+* Database using Mongodb
+     
 ### App Features:
 - [x] Add a new task
 - [x] Modify existing task
+- [x] Get task by task id
 - [x] Delete task
 
      
